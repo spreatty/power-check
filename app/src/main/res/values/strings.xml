@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Power Status</string>
+    <string name="url_key">saved_url</string>
+</resources>
